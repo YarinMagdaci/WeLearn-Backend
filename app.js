@@ -28,6 +28,7 @@ exports.app.use((0, cookie_parser_1.default)());
 const allowedOrigins = [
     "http://localhost:3000",
     "https://we-learn-front-p5mhx56xh-yarinmagdaci.vercel.app",
+    "https://we-learn-front-end.vercel.app",
     "https://m.stripe.network",
     "https://js.stripe.com",
     "https://player.vdocipher.com",
